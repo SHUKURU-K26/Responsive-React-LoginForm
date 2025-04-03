@@ -1,9 +1,9 @@
-import LoginForm from "./LoginForm"
 
+import IndexPage from "./IndexPage"
 function App() {
   return (
     <>
-      <LoginForm/>
+    <IndexPage/>
     </>
   )
 }
